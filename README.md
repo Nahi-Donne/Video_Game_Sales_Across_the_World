@@ -143,5 +143,12 @@ The dataset used contains information on:<br>
 ![Overall Sales](./OverallSales.png)
 
 #### A. Sales by Genre
-![Product Analysis](./Sales by Genre.png)
+![Sales by Genre](./SalesbyGenre.png)
+
+#### B. Sales by Console
+![Sales by Console](./SalesbyConsole.png)
+
+#### C. Sales by Year and Publisher
+![Sales by Year and Publisher](./SalesbyYear.png)
+
 
