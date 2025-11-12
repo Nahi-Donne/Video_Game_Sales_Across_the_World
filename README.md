@@ -139,9 +139,9 @@ The dataset used contains information on:<br>
 
 ## 📊 Dashboard Preview
 
-#### 🎯 E-Commerce Performance Overview
-![E-Commerce Performance Overview](./e-commerce1.png)
+#### 🎯 Overall Sales
+![Overall Sales](./OverallSales.png)
 
-#### Product Analysis
-![Product Analysis](./e-commerce2.png)
+#### A. Sales by Genre
+![Product Analysis](./Sales by Genre.png)
 
