@@ -131,7 +131,7 @@ The dataset used contains information on:<br>
 
 ├── README.md                                     – Summary overview <br>
 ├── Game_Sales_Project                            – Power BI Report <br>
-└── vgchartz-2024                                 – Customer Dataset <br>
+└── vgchartz-2024                                 – Sales Dataset <br>
   
 
 ## 👤 Author
