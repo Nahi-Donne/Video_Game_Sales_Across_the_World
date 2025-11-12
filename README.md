@@ -60,6 +60,7 @@ Leading publishers such as Activision, Electronic Arts, and Ubisoft dominate the
  	**Europe/PAL**: PS3 (301.31M), PS2 (294.83M), X360 (243.97M)
 
 ⦁	PlayStation consoles show consistent strength across all markets, with X360 dominating the US.
+⦁ PC is the lowest-selling console.
 
 ## 5. Top Games and Publishers
 
